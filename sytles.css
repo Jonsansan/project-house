@@ -1,0 +1,16 @@
+.square {
+    position: absolute;
+    top: 40px;
+    left: 70%;
+  height: 80px;
+  width: 90px;
+  transform: translate(-50, -50);
+  background-color: #ff0000;
+}
+.trapezoid {
+	border-bottom: 50px solid #555;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	height: 0;
+	width: 125px;
+}
